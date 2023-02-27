@@ -4,5 +4,5 @@
 - Feel free to add this stripper to your own servers, enjoy.
 
 ## Credits
-Map by Airvulpes, ported to css by xen, portbacked to csgo by koen.
+Map by Airvulpes, ported to css by xen, backported to csgo by koen.
 Knightmare stripper (s7f2) by nuclear silo.
